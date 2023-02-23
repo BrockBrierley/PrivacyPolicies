@@ -1,0 +1,24 @@
+Privacy Policy for Don't Cut Your Finger
+Privacy Policy
+Last updated: February 23, 2023
+This Privacy Policy describes BrierleyGames’ policies and procedures for the collection and use of your information when using the application Don’t Cut Your Finger.
+Collecting and Using Your Personal Data
+
+Types of Data That May be Collected
+-	Personal Data
+While using our service, the application may require the use of personal data to sign into google play. This application will also store usage data in the form of the Highest score which will be saved onto the device.
+
+Data Usage
+The use of google play information will require consent from the user before any data will be used. This data will only be used by googles services and never saved or stored by the application Don’t Cut Your Finger.
+The usage data stored on the device will only contain the highest score achieved as well settings which are defined by the user i.e. music volume, sound Fx volume, and vibration usage.
+
+Use of Your Personal Data
+BrierleyGames will never use or distribute any collected data from the application Don’t Cut Your Finger. The only data used will be the data collected directly from google play which does not include any user identifying data.
+Retention of Your Personal Data
+
+No data will be retained by BrierleyGames.
+Delete Your Personal Data
+To delete any data collected by the application Don’t Cut Your Finger, the user can contact google to removed their information from google play, as well as using their own device to delete the save file stored on the device. Note: reopening the game will create another save file and thus the application will need to be delete from the device.
+
+Contact Us
+You can contact us as: brierleygames@gmail.com
